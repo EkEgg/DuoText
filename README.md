@@ -52,3 +52,5 @@ it costs only one extra byte to glue the texts into one file.
 ## License
 
 This project is licensed under the terms of the MIT License.
+
+## This is something new!
