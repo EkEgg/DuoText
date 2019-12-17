@@ -141,7 +141,7 @@ public class Configuration
         }
     }
 
-    // Configuration related to the files
+    // Configuration related to file management
     public static class File
     {
         public static String

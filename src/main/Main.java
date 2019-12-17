@@ -12,7 +12,7 @@ public class Main
             () -> {
                 try
                 {
-                    // Initialize main window
+                    // Initialize the main window
                     MainWindow window = new MainWindow();
                     window.setVisible(true);
                 }

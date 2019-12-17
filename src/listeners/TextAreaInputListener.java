@@ -14,7 +14,7 @@ public class TextAreaInputListener implements DocumentListener
     // Text area that called the listener
     private final JTextArea textArea;
 
-    // Constructor to get the window
+    // Constructor to get the window the text area is from
     public TextAreaInputListener(MainWindow window, JTextArea textArea)
     {
         this.window = window;

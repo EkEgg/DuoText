@@ -188,7 +188,7 @@ public class MainWindow extends JFrame
         buttonClearL.setToolTipText(Configuration.Button.Tooltip.CLEAR_TXT);
         buttonClearR.setToolTipText(Configuration.Button.Tooltip.CLEAR_TXT);
 
-        // Clears the button's set
+        // Clears the buttons' set
         buttonSet.clear();
 
         // Sets the text areas' font to the same as the buttons

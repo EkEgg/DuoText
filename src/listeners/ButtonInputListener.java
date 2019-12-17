@@ -306,7 +306,7 @@ public class ButtonInputListener implements ActionListener
         // Will determine if the program will really open a file
         boolean canOpen = true;
 
-        // If there are in the unsaved changes in the respective text area
+        // If there are unsaved changes in the respective text area
         if((textArea.equals(window.textAreaL) && window.unsavedChangesL) ||
                 (textArea.equals(window.textAreaR) && window.unsavedChangesR))
         {

@@ -6,7 +6,7 @@ import java.awt.event.WindowEvent;
 import main.Configuration;
 import main.MainWindow;
 
-// The input listener for the window so the program can detect the window closing.
+// The input listener for the window so the program can detect the window closing
 public class WindowInputListener extends WindowAdapter
 {
     // Caller window
