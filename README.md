@@ -6,16 +6,13 @@ topics include, for example:
 
 - translations;
 - adaptations;
-- comparisons;
-- others.
+- comparisons.
 
 It's true that most people interested in these topics have
 more adequate tools for them. However, sometimes one only
 needs the most basic tools, and DuoText is suited for those
-cases.
-
-It's also my way to practice Java programming and software
-development using AWT and Swing APIs. I hope you enjoy.
+cases. It's also my way to learn Java programming and
+software development using Swing and AWT.
 
 ## Features
 
