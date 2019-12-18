@@ -2,13 +2,13 @@
 .idea/
 
 # Ignore output directory
-out
+out/
 
 # Ignore test directory
-tests
+tests/
 
 # Ignore META-INF directory
-META-INF
+META-INF/
 
 # Ignore project settings files
 *.iml
