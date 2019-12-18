@@ -1,3 +1,0 @@
-// Testy
-public class Test {
-}
