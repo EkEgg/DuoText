@@ -1,5 +1,7 @@
 # DuoText
 
+![DuoText screenshot](screenshots/duotext.png)
+
 DuoText is a simple app designed to help in simple tasks in
 which one may need to keep two texts under control. These
 topics include, for example:
