@@ -13,8 +13,9 @@ topics include, for example:
 It's true that most people interested in these topics have
 more adequate tools for them. However, sometimes one only
 needs the most basic tools, and DuoText is suited for those
-cases. It's also my way to learn Java programming and
-software development using Swing and AWT.
+cases. It's also my way to learn programming and software
+development using Java, this is the first real application
+I've done using it.
 
 ## Features
 
