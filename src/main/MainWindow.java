@@ -60,7 +60,6 @@ public class MainWindow extends JFrame
         // Configures the window
         addWindowListener(new WindowInputListener(this));
         updateTitle();
-        //setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setBounds(0, 0,
                 Configuration.MainWindow.Dimensions.INITIAL_WIDTH, Configuration.MainWindow.Dimensions.INITIAL_HEIGHT);
         setLocationRelativeTo(null);    // Centers the window in the screen
